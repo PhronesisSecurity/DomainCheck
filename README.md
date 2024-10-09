@@ -28,6 +28,6 @@ This script checks various DNS security configurations for a given domain, inclu
 
 ## Usage
 
-    ```python domaincheck.py
-    python3 
+    ```
+    python domaincheck.py
     ```
