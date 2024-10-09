@@ -27,5 +27,6 @@ This script checks various DNS security configurations for a given domain, inclu
     ```
 
 ## Usage
+    ```bash
     python domaincheck.py
-
+    ```
